@@ -1,0 +1,7 @@
+{
+  "name": "realdatascraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-rendered public-data scraping playground for Vercel",
+  "engines": { "node": "20.x" }
+}
